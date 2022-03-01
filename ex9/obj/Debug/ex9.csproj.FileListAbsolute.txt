@@ -1,0 +1,9 @@
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\bin\Debug\ex9.exe.config
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\bin\Debug\ex9.exe
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\bin\Debug\ex9.pdb
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.csprojAssemblyReference.cache
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.Form1.resources
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.Properties.Resources.resources
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.csproj.GenerateResource.cache
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.exe
+D:\Dev\Dev Cours\C#\tp4\ex4\ex9\ex9\obj\Debug\ex9.pdb
